@@ -1,6 +1,6 @@
 "use client";
-
 import React from "react";
+import Grid from "@mui/material/GridLegacy";
 import {
   AppBar,
   Toolbar,
@@ -8,7 +8,6 @@ import {
   Container,
   Box,
   Button,
-  Grid,
   Card,
   CardContent,
   Chip,
